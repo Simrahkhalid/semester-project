@@ -1,0 +1,1 @@
+const TeamWie=require('../models/TeamWIE');
